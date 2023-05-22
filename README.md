@@ -29,7 +29,7 @@ Smart20-BlowmoldingControlSystemPro 软件框架与 Smart20-BlowmoldingControlSy
 Smart20-BlowmoldingControlSystemPro 不公开开源，需要付费购买。
 
 ### 免责申明
-在使用 Smart20-BlowmoldingControlSystemPro 之前请进行缜密的测试。在使用期间，由本程序集造成或间接造成的所有损失，均自己承担，与本程序集无关。
+在使用 Smart20-BlowmoldingControlSystem 之前请进行缜密的测试。在使用期间，由本程序集造成或间接造成的所有损失，均自己承担，与本程序集无关。
 
 ## 简介|Introduction
 - Smart20 吹塑机控制系统基于HMI+PLC，构建了吹塑机控制系统主要功能和模块，Smart20-BlowmoldingControlSystem基于Apache-2.0 license协议颁布，完全可以应用于基本需求的商业产品应用中。
