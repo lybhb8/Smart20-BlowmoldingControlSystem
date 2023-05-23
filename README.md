@@ -1,6 +1,6 @@
 # Smart20-BlowmoldingControlSystem
 基于HMI+PLC 的吹塑机控制系统 A Blowmolding Control System Base by HMI+PLC 
-## 说明
+## 说明 | Notice
 ### 使用前必要阅读
 Smart20-BlowmoldingControlSystem 由作者Bobolin及其他贡献者开发，所有版权归作者Bobolin所有，程序集源代码在遵循 Apache-2.0 license 的开源协议以及附加协议下，可免费供其他开发者二次开发或（商业）使用。
 
@@ -35,3 +35,4 @@ Smart20-BlowmoldingControlSystemPro 不公开开源，需要付费购买。
 - Smart20 吹塑机控制系统基于HMI+PLC，构建了吹塑机控制系统主要功能和模块，Smart20-BlowmoldingControlSystem基于Apache-2.0 license协议颁布，完全可以应用于基本需求的商业产品应用中。
 - HMI部分基于[**繁易**](https://www.flexem.cn/product/9000/FE9150M "点击跳转")15吋触摸屏构建，组态软件(IDE)为[FStudio 2.0](http://fs.flexem.com/zh)，功能脚本遵照C语言语法。
 - PLC部分基于[**OMRON**](https://www.fa.omron.com.cn/products/category/automation-systems/programmable-controllers/index.html) **C**系列PLC(如CP1H,CJ2M)构建，编辑软件为[CX-ONE4.03及以上](https://www.aliyundrive.com/s/bRGAnchw8ZJ)。后续还会推出基于西门子S系列，三菱FX5U等版本，用户也可以自行移植构建。
+## 性能特点|Characteristics
