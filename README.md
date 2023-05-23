@@ -2,6 +2,8 @@
 
 基于HMI+PLC 的吹塑机控制系统 A Blowmolding Control System Base by HMI+PLC 
 
+<img title="" src="file:///C:/blowmoldingcontroller/home.png" alt="" width="490">
+
 ## 说明 | Notice
 
 ### 使用前必要阅读
@@ -46,7 +48,7 @@ Smart20-BlowmoldingControlSystemPro 不公开开源，需要付费购买。
 - HMI部分基于[**繁易**](https://www.flexem.cn/product/9000/FE9150M "点击跳转")15吋触摸屏构建，组态软件(IDE)为[FStudio 2.0](http://fs.flexem.com/zh)，功能脚本遵照C语言语法。
 - PLC部分基于[**OMRON**](https://www.fa.omron.com.cn/products/category/automation-systems/programmable-controllers/index.html) **C**系列PLC(如CP1H,CJ2M)构建，编辑软件为[CX-ONE4.03及以上](https://www.aliyundrive.com/s/bRGAnchw8ZJ)。后续还会推出基于西门子S系列，三菱FX5U等版本，用户也可以自行移植构建。
 
-## 性能特点|Characteristics
+## 性能特点|Features
 
 - 开放的，资源友好型系统框架，成熟稳定，性能优异的HMI+PLC架构，开源免费，开箱即用，电气工程师易于上手使用。
 - 系统功能齐全，配置了吹塑机控制所需的功能模块：挤出、温度、壁厚控制、开合模、移模、时间、吹针、液压、吹气、气动、报警、监控、日志、产品配方、运动控制（伺服电机）等。
