@@ -2,7 +2,9 @@
 
 基于HMI+PLC 的吹塑机控制系统 A Blowmolding Control System Base by HMI+PLC 
 
-<img title="" src="https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/home.7jcq8o2ba6s0.webp" alt="" width="490">
+<img title="" src="https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/tutieshi_640x475_151s.5vbxphu2a9c0.gif" alt="" width="640">
+
+![](https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/tutieshi_640x475_107s.1ium3e7yxuf4.gif)
 
 ## 说明 | Notice
 
