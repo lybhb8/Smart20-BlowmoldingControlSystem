@@ -6,7 +6,7 @@
 
 <img title="" src="https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_117s.3zd09jw1avs0.gif" alt="" width="479">
 
-![](https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/tutieshi_480x356_72s.s6zeobettww.gif)
+![](https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_70s.42n9gdq0lza0.gif)
 
 ![](https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/tutieshi_480x356_70s.42n9gdq0lza0.gif)
 
