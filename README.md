@@ -8,7 +8,7 @@
 
 ![](https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_70s.42n9gdq0lza0.gif)
 
-![](https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/tutieshi_480x356_70s.42n9gdq0lza0.gif)
+![](https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_72s.s6zeobettww.gif)
 
 ## 说明 | Notice
 
