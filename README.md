@@ -1,13 +1,18 @@
 # Smart20-BlowmoldingControlSystem
 
 基于HMI+PLC 的吹塑机控制系统 A Blowmolding Control System Base by HMI+PLC 
+## 演示 | Show
 
+### 首页
 <img title="" src="https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/home.7jcq8o2ba6s0.webp" alt="" width="478">
 
+### 部分1
 <img title="" src="https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_117s.3zd09jw1avs0.gif" alt="" width="479">
 
+### 部分2
 ![](https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_70s.42n9gdq0lza0.gif)
 
+### 部分3
 ![](https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_72s.s6zeobettww.gif)
 
 ## 说明 | Notice
