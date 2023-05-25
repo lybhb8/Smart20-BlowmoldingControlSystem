@@ -10,10 +10,7 @@
 ![](https://github.com/lybhb8/images_store/blob/main/blowmoldingsystem/tutieshi_640x475_151s.5vbxphu2a9c0.gif)
 
 ### 部分2
-![](https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_70s.42n9gdq0lza0.gif)
-
-### 部分3
-![](https://github.com/lybhb8/pix_rep/blob/master/blog/tutieshi_480x356_72s.s6zeobettww.gif)
+![](https://github.com/lybhb8/images_store/blob/main/blowmoldingsystem/tutieshi_640x475_107s.1ium3e7yxuf4.gif)
 
 ## 说明 | Notice
 
