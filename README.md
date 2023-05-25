@@ -4,7 +4,7 @@
 ## 演示 | Show
 
 ### 首页
-<img title="" src="https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/home.7jcq8o2ba6s0.webp" alt="" width="478">
+<img title="" src="https://cdn.staticaly.com/gh/lybhb8/pix_rep@master/blog/home.7jcq8o2ba6s0.webp" alt="" width="640">
 
 ### 部分1
 ![](https://github.com/lybhb8/images_store/blob/main/blowmoldingsystem/tutieshi_640x475_151s.5vbxphu2a9c0.gif)
