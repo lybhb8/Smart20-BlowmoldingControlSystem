@@ -46,7 +46,7 @@
 
 - 以上内容必须全部符合，二次开发授权才成立。
 
-### 盈利性（商业）用途使用须知:
+### 商业用途使用须知:
 
 - 不能将程序集用作违法犯罪活动。
 
@@ -111,7 +111,7 @@
   
   - 原生的C语言系统平台，足够的系统开放性，可以调用大量的C库函数，增强组态工作。
   
-  - 更多优点在项目文档中详细说明，治理不再赘述。
+  - 更多优点在项目文档中详细说明，这里不再赘述。
   
   总之，**繁易HMI**平台有一种“”梦里寻他千百度，蓦然回首，那人却在灯火阑珊处“的感觉。
 
@@ -141,16 +141,20 @@
 
 - 所以，最终决定**Smart20-BlowmoldingControlSystem** **开源**！
 
-## 参与开发 | Development
+## 开发 | Development
 
-我们欢迎您在 **Smart20-BlowmoldingControlSystem**项目的 GitHub 上报告 issue 或者 pull request。
+我们欢迎您在 **Smart20-BlowmoldingControlSystem**项目的 GitHub 上报告 [issue](https://github.com/lybhb8/Smart20-BlowmoldingControlSystem/issues)或者 [pull request](https://github.com/lybhb8/Smart20-BlowmoldingControlSystem/pulls)。
 
-如果您还不熟悉GitHub的Fork and Pull开发模式，您可以阅读[克隆仓库 - GitHub 文档](https://docs.github.com/zh/repositories/creating-and-managing-repositories/cloning-a-repository?platform=windows))获得更多的信息。(**1小时学会GitHub**，[请点击:【狂神说Java】Git最新教程通俗易懂](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click&vd_source=72d47f920610891857fb5340afefeb8e))
+如果您还不熟悉GitHub的**Fork & Pull**开发模式，您可以阅读[克隆仓库 - GitHub 文档](https://docs.github.com/zh/repositories/creating-and-managing-repositories/cloning-a-repository?platform=windows))获得更多的信息。(**1小时学会GitHub**，[请点击:【狂神说Java】Git最新教程通俗易懂](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click&vd_source=72d47f920610891857fb5340afefeb8e))
+
+## 贡献 | Contribution
+
+欢迎各种形式的贡献，包括但不限于：美化界面、增加功能、性能优化、修复 Bug、完善文档等。
 
 ## 感谢 | Thanks
 
 - 其中肯定还是有不足的地方，大家在使用的过程中，遇到问题，欢迎反馈。
-- 需要您的赞许和支持，**Pull &  Star**就是您的贡献。
+- 项目需要您的赞许和支持，**Pull &  Star**就是您的贡献。
 - 为了长期维护和发展开源项目，欢迎个人和企业积极参与项目共建。
 - 项目得到以下企业和相关人员的帮助：
   - 陕西秦川机床工具集团
@@ -159,7 +163,7 @@
   
   - 东莞今隽机械有限公司
   
-  - 宁波中科信息技术应用研究院
+  - 宁波中科信息技术应用研究院 
 
 ## Smart20-BlowmoldingControlSystemPro 商用许可
 
@@ -171,4 +175,4 @@
 
 ## 关于作者 | About author
 
-  一个原生而不纯粹的机械工程师，一个纯粹的自动化控制技术爱好者，一个零基础计算机技术的学习者。
+  Bobilin，一个原生而不纯粹的机械工程师，一个纯粹的自动化控制技术爱好者，一个零基础计算机技术的学习者。
