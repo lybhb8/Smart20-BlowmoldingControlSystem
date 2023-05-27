@@ -56,14 +56,6 @@
 
 - 以上内容必须全部符合，商业使用授权才成立。
 
-### Smart20-BlowmoldingControlSystemPro 商用许可
-
-- **Smart20-BlowmoldingControlSystemPro**软件框架与 **Smart20-BlowmoldingControlSystem**是一致的，只另包含增强功能模块。
-
-- **Smart20-BlowmoldingControlSystemPro**所有版权归作者Bobolin所有。
-
-- **Smart20-BlowmoldingControlSystemPro**不公开开源，需要付费购买。
-
 ### 免责申明
 
 在使用 Smart20-BlowmoldingControlSystem 之前请进行缜密的测试。在使用期间，由本程序集造成或间接造成的所有损失，均自己承担，与本程序集无关。
@@ -118,16 +110,36 @@
   - 高性能实时C语言脚本技术，能完成各种高级组态功能。
   
   - 原生的C语言系统平台，足够的系统开放性，可以调用大量的C库函数，增强组态工作。
+  
+  - 更多优点在项目文档中详细说明，治理不再赘述。
+  
+  总之，**繁易HMI**平台有一种“”梦里寻他千百度，蓦然回首，那人却在灯火阑珊处“的感觉。
 
+- PLC 部分选用**OMRON** C系列，因为本人对其PLC熟悉，也能轻松驾驭其指令集。更重要的原因：本系统PLC代码经过多个实际项目常年使用检验，证明了其正确性、可靠性、稳定性，用户可放心使用。使用其余PLC平台（如西门子，三菱）也可以借鉴移植。
 
+- 本来是不想开源的，因为如果开源，就需要对系统代码做大量的注释和封装工作，这会耗费不少的精力和时间。回想起系统初步构建时，为了使用C语言脚本，前后半年利用业余时间主要学习和浏览了以下知识和网络资源：
+  
+  - C语言（书籍：C语言程序设计/北京理工大学版；视频教程：[ linux嵌入式C语言学习教程](https://www.bilibili.com/video/BV18p4y167Md/?spm_id_from=333.337.search-card.all.click) ,网络教程：[C 语言教程 - 网道](https://wangdoc.com/clang/)  )。
+  
+  - [Git](https://git-scm.com/) &[Github](https://github.com/)
+  
+  - [Docker](https://www.docker.com/)(视频教程:[Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4/?spm_id_from=333.337.search-card.all.click))
+  
+  - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+  
+  - [西门子SIMATIC WinCC官方网站](http://www.wincc.com.cn/zxjc.aspx#)
+  
+  - ...
 
-当时想着自己也开发一套，但是后来没时间，当时也没那个技术积累。
+- 受益于5G&互联网技术的实惠，感受到了开源的力量。随着项目的顺利推进，开源的意愿愈加强烈：
+  
+  - 项目受益于各种开源书籍和开源组件等社会资源。
+  
+  - 开源可以汇集大家的力量推进**吹塑机控制系统**做的更好、更大、更强。
+  
+  - 开源可以惠及吹塑机行业发展。
 
-后来学了Go语言，又在无意间遇到了[Mindoc](https://github.com/lifei6671/mindoc)，然后我们公司([掘金量化](https://www.myquant.cn/) )也恰巧让我开发公司官网和文档系统，然后我就对[Mindoc](https://github.com/lifei6671/mindoc)做了二次开发。
-
-本来是不想开源的，因为自己写代码的时候，写着写着，代码改来改去，然后代码就乱七八糟了，怕开源出来丢人现眼。但是踏入IT行业三年多时间以来，自身也受益于各种开源书籍和开源组件，所以最终还是决定将BookStack开源出来。
-
-其中肯定还是有不足的地方，大家在使用的过程中，遇到问题，欢迎反馈。
+- 所以，最终决定**Smart20-BlowmoldingControlSystem** **开源**！
 
 ## 参与开发 | Development
 
@@ -137,4 +149,26 @@
 
 ## 感谢 | Thanks
 
-- 
+- 其中肯定还是有不足的地方，大家在使用的过程中，遇到问题，欢迎反馈。
+- 需要您的赞许和支持，**Pull &  Star**就是您的贡献。
+- 为了长期维护和发展开源项目，欢迎个人和企业积极参与项目共建。
+- 项目得到以下企业和相关人员的帮助：
+  - 陕西秦川机床工具集团
+  
+  - 苏州同大机械有限公司
+  
+  - 东莞今隽机械有限公司
+  
+  - 宁波中科信息技术应用研究院
+
+## Smart20-BlowmoldingControlSystemPro 商用许可
+
+- **Smart20-BlowmoldingControlSystemPro**软件框架与 **Smart20-BlowmoldingControlSystem**是一致的，只另包含增强功能模块。
+
+- **Smart20-BlowmoldingControlSystemPro**所有版权归作者Bobolin所有。
+
+- **Smart20-BlowmoldingControlSystemPro**是非开源部分，需要付费购买，欢迎商业用户积极选用。
+
+## 关于作者 | About author
+
+  一个原生而不纯粹的机械工程师，一个纯粹的自动化控制技术爱好者，一个零基础计算机技术的学习者。
