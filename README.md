@@ -145,6 +145,10 @@
 
 在使用 Smart20-BlowmoldingControlSystem 之前请进行缜密的测试。在使用期间，由本程序集造成或间接造成的所有损失，均自己承担，与本程序集无关。
 
+## 开始 | Getting Started
+
+[项目文档 wiki](https://github.com/lybhb8/Smart20-BlowmoldingControlSystem/wiki)
+
 ## 开发 | Development
 
 我们欢迎您在 **Smart20-BlowmoldingControlSystem**项目的 GitHub 上报告 [issue](https://github.com/lybhb8/Smart20-BlowmoldingControlSystem/issues)或者 [pull request](https://github.com/lybhb8/Smart20-BlowmoldingControlSystem/pulls)。
@@ -154,6 +158,8 @@
 ## 贡献 | Contribution
 
 欢迎各种形式的贡献，包括但不限于：美化界面、增加功能、性能优化、修复 Bug、完善文档等。
+
+
 
 ## 感谢 | Thanks
 
@@ -184,7 +190,3 @@
 ## 关于作者 | About author
 
   Bobilin，一个原生而不纯粹的机械工程师，一个纯粹的自动化控制技术爱好者，一个零基础计算机技术的学习者。
-
-## 开始 | Getting Started
-
-[项目文档 wiki](https://github.com/lybhb8/Smart20-BlowmoldingControlSystem/wiki)
