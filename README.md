@@ -187,4 +187,4 @@
 
 ## 开始 | Getting Started
 
-[项目文档 wiki](https://github.com/lybhb8/Smart20-BlowmoldingControlSystem/wiki/Home/_edit)
+[项目文档 wiki](https://github.com/lybhb8/Smart20-BlowmoldingControlSystem/wiki)
