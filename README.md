@@ -19,4 +19,4 @@
 
 ### 请参考：
 
-[项目文档](https://github.com/lybhb8/Smart20-Docs)
+[系统文档](https://github.com/lybhb8/Smart20-Docs)
