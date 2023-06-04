@@ -17,4 +17,6 @@
 
 ## 开始 | Getting Started
 
-[项目文档](https://github.com/lybhb8/Smart20-Docs/tree/main/source/docs)
+### 请参考：
+
+[项目文档](https://github.com/lybhb8/Smart20-Docs)
